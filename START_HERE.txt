@@ -1,0 +1,8 @@
+PHISHGUARD — START HERE
+
+1. Extract this ZIP.
+2. First goal: run app.py and see the interface open.
+3. Next: upload app.py, requirements.txt, README.md and the data folder to GitHub.
+4. Final: deploy on Streamlit Community Cloud and copy the working app URL into your Google Form.
+
+The included datasets are illustrative starter examples, not research-grade data. Replace them with properly sourced datasets before making claims about real-world model performance.

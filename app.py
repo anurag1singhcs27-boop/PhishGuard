@@ -12,7 +12,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 
 ROOT = Path(__file__).parent
-DATA = ROOT / 'data'
+DATA = ROOT 
 st.set_page_config(page_title='PhishGuard | Phishing Detection', page_icon='🛡️', layout='wide')
 
 @st.cache_data
